@@ -1,0 +1,6 @@
+{
+  "name": "INFITECH SOLUTIONS",
+  "description": "INFITECH SOLUTIONS builds high-speed websites, product catalogues, and online stores for local businesses, shops, and manufacturers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
